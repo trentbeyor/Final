@@ -1,0 +1,41 @@
+h1 {
+	font-family: Helvetica;
+	color: white;
+	text-align: center;
+	margin-top: 80px;
+}
+
+#button {
+	background: transparent;
+	border-style: solid;
+    border-color: yellow;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 32px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.info-container {
+	border-style: solid;
+	background: transparent;
+	width: 850px;
+	height: 500px;
+	border-color: yellow;
+	border-radius: 10px;
+	color: white;
+	padding: 15px 32px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body {
+	background-color: #090216;
+}
+
+h2 {
+	font-family: Helvetica;
+	color: white;
+	text-align: center;
+	margin-top: 80px;
+}
